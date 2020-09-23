@@ -1,0 +1,2 @@
+- poder scollear preset con encoder
+- por ahi estaria cute que la pantalla de loop tenga un reb y delay

@@ -1,0 +1,6 @@
+- golf landscape infinito, donde vas avanzando y el wavetable que suena es el horizonte
+- accordion/bandoneon que controla el pedal de expresion
+- Katzenklavier / Cat Piano
+- Duracell
+- gabe the dog. Estaria bueno hacer un modulo para grabar wav
+- instrumentos con soundfouns de mother 3 y yoshi. Estaria bueno hacer un modulo para grabar wav

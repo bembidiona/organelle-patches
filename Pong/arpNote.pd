@@ -1,0 +1,15 @@
+#N canvas 430 267 450 300 10;
+#X floatatom 197 159 3 0 0 0 - - -;
+#X obj 177 189 int;
+#X obj 129 158 delay;
+#X obj 129 40 inlet;
+#X obj 129 61 unpack;
+#X msg 129 121 \$1;
+#X obj 177 230 outlet;
+#X connect 0 0 1 1;
+#X connect 1 0 6 0;
+#X connect 2 0 1 0;
+#X connect 3 0 4 0;
+#X connect 4 0 5 0;
+#X connect 4 1 0 0;
+#X connect 5 0 2 0;

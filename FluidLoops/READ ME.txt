@@ -1,0 +1,14 @@
+---------------------------------------------------------------
+HOW TO INSTALL ON ORGANELLE-M
+--------------------------------------------------------------
+If you have an Organelle M, you need to copy the file "libfluidsynth.so.1" of the folder "ORGANELLE-M/", and paste it, replacing the one in the "fluidLoops/" folder
+
+--------------------------------------------------------------
+HOW TO ADD YOUR OWN SOUNDFONTS
+--------------------------------------------------------------
+0 - This should be done on your computer
+1 - Search the web for .sf2 files (a good site is https://musical-artifacts.com/artifacts?formats=sf2)
+2 - Copy those files to the sf2/ folder inside the fluidLoops folder
+3 - Run the "parseSoundfonts.py" script and you a are done*
+
+*For step 3 to be successful, you have to have installed Python 3 on your computer and the sf2utils module (pip install sf2utils)

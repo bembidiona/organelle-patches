@@ -1,0 +1,4 @@
+ bandoneon bandoneon 9 1;
+ global global 6 128;
+ mother3 mother3 7 100;
+ yoshis_island yoshis_island 13 27;

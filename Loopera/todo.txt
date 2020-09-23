@@ -1,0 +1,11 @@
+- el header deberia decir en que channels estas +  si estas en algun effecto:
+	- track 2  
+	- in REVERB
+	- out - REVERB
+	- out - REVERB
+	- Multi Mode (para el multiselect)
+	- synth
+
+
+- Hace falta alguna manera para saber cuantos loops estan activos y sonando. (para dividir la señal de entrada o la salida de los loops) /
+- volver: deprecated cuando apreta el mismo track play/stop?

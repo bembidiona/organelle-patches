@@ -1,0 +1,25 @@
+It's Pong, for Organelle! 
+Equal parts game and generative chiptunesque synthesizer.
+
+It's my first patch, but already put quite some time into it.
+[will add gifs and videos later]
+
+Main Features:
+- The classic pong game. You can set one player, two players or cpu controlled paddles, score limits, etc.
+- Handmade graphics and fonts. 
+- The bounces, goals, win states, etc, interact with the keys you are playing generating arpeggios and overtones.
+- The synth engine it's HEAVILY inspired by the Zone patch of C&G. (The position of the ball sets the mixing of the four wavetables)
+- Ship with 30 wavetables that grabbed my attention because sounded a looked unique. (credits to NESWaves, The Zone Patch and mainly AKWF).
+- Unlike Zone, you can change individually each table for each quadrant of the field.
+- Attack, Release, Transpose and Portamento of the keys 
+- Support for damp pedal
+- Tweak speed and size of the ball, and size of the paddles. Most of the graphic stuff is mapped to filters and transposers. So you see what you play and you hear what you see.
+- A delay engine for the ball sfx.
+- A secret beatboxy screen with cameos in pixel art from C&G !
+
+Now I will like to ask for help with this:
+I uploaded the patch to patchstorage, but something went wrong. If you click the patch mosaic in the Home page or in my user page, it redirect you to ANOTHER pong patch.
+I'm unable to delete or edit my patch page in any way, just to try to fix this problem. (I can't enter my patch page).
+this is my user page https://patchstorage.com/author/varicela/ 
+ 
+So, until the patchstore problem gets resolved, here is a dropbox link: https://www.dropbox.com/s/f5idcshdk6hnvi4/PONG.zip?dl=0

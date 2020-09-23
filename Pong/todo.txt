@@ -1,0 +1,4 @@
+﻿IDEAS:
+- por ahi que el delay del arpegio lo controle la velocidad de la pelota
+
+

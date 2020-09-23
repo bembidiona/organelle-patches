@@ -1,0 +1,5 @@
+#N canvas 509 630 400 244 10;
+#X declare -lib ceammc;
+#X obj 269 4 declare -lib ceammc;
+#X text 313 21 for windows;
+#X obj 154 109 main;
