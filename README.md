@@ -1,6 +1,7 @@
 # organelle-patches
 A collection of [Organelle](https://www.critterandguitari.com/organelle) patches made by me.\
 Full description and instructions for each patch are in the README of every folder.
+Also check my Organelle emulator [here](https://github.com/bembidiona/organelle-emulator)!
 
 ## [PONG](https://github.com/bembidiona/organelle-patches/tree/master/Pong)
 It’s Pong, for Organelle!\
